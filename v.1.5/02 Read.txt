@@ -1,0 +1,38 @@
+http://zhuoweizhang.net/MCPELauncher/MCPELauncherApp-release-beta.apk
+
+=================================================================
+
+ModPE: ChromaKeyPe
+Type: Modpkg
+
+Change List
+<Beta Version>
+-Only available in Spanish
+-Adds the initial presentation
+-Enter the three types of blocks
+
+<Version 1.5>
+-Available in English and Spanish
+-Corrects the welcome message
+-Change IDs blocks
+-Lighting adds blocks
+
+<Version 2.0>
+-In process of construction
+
+Method of installation	
+0. You need BL or TB latest version
+1. Open BlockLauncher or Toolbox
+2. Find the file
+3. Select and activate the Modpkg
+4. Ready, it´s time to enjoy
+
+Publishing Rules
+
+• If you do review used in the video title # ChromaKey-pe
+• Never add AdFly to link
+• Mentioning the creator and their respective social networks
+
+Remember to use the #ChromaKeyPe to report problems or make suggestions for next versions.
+
+=================================================================
